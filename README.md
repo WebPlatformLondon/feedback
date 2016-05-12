@@ -1,5 +1,7 @@
 # Feedback
 
+[![Join the chat at https://gitter.im/WebPlatformLondon/feedback](https://badges.gitter.im/WebPlatformLondon/feedback.svg)](https://gitter.im/WebPlatformLondon/feedback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Help! We need your feedback
 We strive to improve WebPlaformLondon, however, we need your help.  Please provide us with your feedback, good or bad.  
 
